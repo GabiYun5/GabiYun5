@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GabiYun5
-- 👀 I’m interested in Games!
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to create things
-- 📫 How to reach me: GabiYun5#1231 on Discord
+- Hi, I’m @GabiYun5
+- I’m interested in Games!
+- I’m currently learning Coding
+- I’m looking to create things
+- How to reach me: GabiYun5#1231 on Discord
